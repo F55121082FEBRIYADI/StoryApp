@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Cerita</string>
+    <string name="new_to_story">Baru di Cerita?</string>
+    <string name="already_have_an_account">Sudah memiliki akun?</string>
+    <string name="content_description_media">Gambar dari daftar cerita</string>
+    <string name="dummy_name">Nama Pembuat</string>
+    <string name="dummy_description">Deskripsi</string>
+    <string name="description_welcome">Ingin berbagi cerita terkait teknologi? Anda harus menggunakan Aplikasi Cerita ini agar teman-teman Anda bisa melihat!</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="login_message">Temukan dunia pengalaman belajar dan cerita mahasiswa di Dicoding. Anda juga bisa berkontribusi dan berbagi perjalanan belajar Anda sendiri! ✍️</string>
+    <string name="content_description_register">Gambar tata letak pendaftaran</string>
+    <string name="register_message">Pertama kali menggunakan aplikasi ini? Ini adalah hari yang indah untuk memulai dengan akun baru Anda ✨</string>
+    <string name="email">Email</string>
+    <string name="name">Nama</string>
+    <string name="password">Kata Sandi</string>
+    <string name="content_description_login">Gambar Tata Letak Masuk</string>
+    <string name="login_title">Halo, mari masuk</string>
+    <string name="logout">Keluar</string>
+    <string name="content_description_fab">Tombol Tambah Cerita</string>
+    <string name="my_story_app">Aplikasi Cerita Saya</string>
+    <string name="camera_button">Kamera</string>
+    <string name="gallery_button">Galeri</string>
+    <string name="upload_button">Unggah</string>
+    <string name="empty_image_warning">Harap tambahkan file gambar terlebih dahulu.</string>
+    <string name="story_empty">Cerita tidak Ditemukan</string>
+    <string name="logout_reminder">"Apakah Anda yakin ingin keluar? 😕"</string>
+    <string name="cancel">Batal</string>
+    <string name="ed_email_error_message">Format alamat email tidak valid</string>
+    <string name="email_required">Email wajib diisi</string>
+    <string name="name_required">Nama wajib diisi</string>
+    <string name="password_required">Kata sandi wajib diisi</string>
+    <string name="login_error_message">Terjadi kesalahan saat masuk.</string>
+    <string name="register_title">Buat akun</string>
+    <string name="language_setting">Pengaturan Bahasa</string>
+</resources>

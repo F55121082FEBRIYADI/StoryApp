@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="new_to_story">New to Story?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="content_description_media">The picture from list story</string>
+    <string name="dummy_name">Creator Name</string>
+    <string name="dummy_description">Description</string>
+    <string name="description_welcome">Do you want to share stories related to technology? You must use this Story App so your friends can see!</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="login_message">Discover a world of learning experiences and student stories on Dicoding. You can also contribute and share your own learning journey! ✍️</string>
+    <string name="content_description_register">Image of layout register</string>
+    <string name="register_message">First time using this app ? It s a beautiful day get you started with your new account ✨</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="content_description_login">Layout Image of Login</string>
+    <string name="login_title">Hello, let s sign in</string>
+    <string name="logout">Logout</string>
+    <string name="content_description_fab">Add Story Button</string>
+    <string name="my_story_app">My Story App</string>
+    <string name="camera_button">Camera</string>
+    <string name="gallery_button">Gallery</string>
+    <string name="upload_button">Upload</string>
+    <string name="empty_image_warning">Please add an image file first.</string>
+    <string name="story_empty">Story not Found</string>
+    <string name="logout_reminder">"Are you sure you want to log out? 😕"</string>
+    <string name="cancel">Cancel</string>
+    <string name="ed_email_error_message">Invalid email address format</string>
+    <string name="email_required">Email is required</string>
+    <string name="name_required">Name is required</string>
+    <string name="password_required">Password is required</string>
+    <string name="login_error_message">An error occurred during login.</string>
+    <string name="register_title">Create an account</string>
+    <string name="language_setting">Language Setting</string>
+</resources>

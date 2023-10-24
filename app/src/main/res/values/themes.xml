@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StoryApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/dark_blue_500</item>
+        <item name="colorPrimaryVariant">@color/dark_blue_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="backgroundColor">@color/light_grey</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/pink_500</item>
+        <item name="colorSecondaryVariant">@color/pink_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/light_grey</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowSharedElementsUseOverlay">false</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:textColor">@color/dark_blue_500</item>
+    </style>
+    <style name="Text.Title">
+        <item name="fontFamily">@font/product_sans_bold</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+    <style name="ToolbarTitleText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Theme.StoryApp" parent="Base.Theme.StoryApp" />
+</resources>
